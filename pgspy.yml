@@ -1,0 +1,5 @@
+db:
+  url: 'postgres://localhost:5432/pgspy?sslmode=disable'
+notify:
+  name: 'pgspy'
+out: '/tmp/pgspy.log'
